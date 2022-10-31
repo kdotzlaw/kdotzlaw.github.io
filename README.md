@@ -51,7 +51,7 @@ Congratulations! You have hosted your resume using Markdown, Jekyll and GitHub P
 I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for their help editing this guide.
 ## FAQs
 **Why is Markdown better than a word processor?**   
-Markdown is better than a word processor because formatting is fast and easy. Markdown's syntax allows formatting to be done without clicking different buttons.
+Markdown is better than a word processor because formatting is fast and easy. Markdown's syntax allows formatting to be done without clicking different buttons.   
 **Why can't I run Jekyll?**   
 Jekyll requires Ruby so make sure you have at least Ruby 2.50 installed. You can check your version of Ruby by opening the command prompt 
 (for Windows, search 'cmd' in the Start menu) and typing **ruby -v**). If your version of Ruby is too low, uninstall 
