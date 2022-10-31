@@ -1,4 +1,4 @@
-# **How to Host a Resume Using Jekyll**
+# **How to Host a Resume Using Jekyll, GitHub Pages and Markdown**
 ## Purpose: 
 * Provide a step-by-step guide on how to host and format a resume written in Markdown (edited in Notepad++), hosted by Jekyll and GitHub Pages.
 * Relate the general principles of technical writing to each step in the guide given. The general principles are described in Andrew Etter's book, [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=36CB5TXK2RFM8&keywords=modern+technical+writing+by+andrew+etter&qid=1667241539&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C121&sr=8-1).
