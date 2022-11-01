@@ -19,13 +19,14 @@ This emphasizes Etter's point about anyone being able to contribute.
 #### Instructions
 1. Install Jekyll prerequisites, found [here](https://jekyllrb.com/docs/installation/).
 2. Open your command prompt. 
-	* For Windows, search 'cmd' in the Start menu. Information for other systems can be found by searching 'command prompt <operating system>' in your web browser.
+	* For Windows, search 'cmd' in the Start menu. 
+	* Information for other systems can be found by searching 'command prompt <operating system>' in your web browser.
 3. Install Jekyll, following the steps for your operating system found [here](https://jekyllrb.com/docs/installation/).
 4. Go to the directory you want to store your site in using the command prompt. 
-* Go [here](https://www.wikihow.com/Find-All-Commands-of-CMD-in-Your-Computer) for information on how to find command prompt commands on your computer.
+	* Go [here](https://www.wikihow.com/Find-All-Commands-of-CMD-in-Your-Computer) for information on how to find command prompt commands on your computer.
 5. Create a new Jekyll site using `jekyll new <site_name>`
 6. Go into the directory **<site_name>**( `cd <site_name>` for Windows) .
-7. Build your site by typing `bundle exec jekyll serve` into the command prompt.
+7. Build your site by typing `bundle exec jekyll serve` into the command prompt.   
 Congratulations! You have created your first Jekyll site! You can search **localhost:4000** in your web browser to view your new site. You have also learned 
 how the instructions for creating a static site relate to Andrew Etter's key principles.
 
@@ -36,17 +37,16 @@ It is good practice to store code and documentation in the same repository. In a
 clone a seperate repository are less likely to contribute to the project.
 Etter also explains in _Modern Technical Writing_ that storing code and documentation together allows them to stay in sync. 
 #### Instructions
-1. Create a new repository 
- a. Create the repository by clicking the **+** button.
- b. Name your repository **<GitHub_Username>.github.io**.
- c. Publish your repository.
-You have now created a repository for your website and added GitHub Pages. You have also learned about the importance of version control, another of Andrew Etter's key principles.
-2. Add GitHub Pages
- a. Go to **settings**.
- b.  Click **Pages** in the **Code and Automation** section.
- c.  Select the branch to add GitHub Pages to.
-	* For our purposes, the main branch is fine.
- d. Save your changes.
+1. Create a new repository    
+ a. Create the repository by clicking the **+** button.   
+ b. Name your repository **<GitHub_Username>.github.io**.   
+ c. Publish your repository.   
+You have now created a repository for your website. You have also learned about the importance of version control, another of Andrew Etter's key principles.      
+2. Add GitHub Pages   
+ a. Go to **settings**.   
+ b.  Click **Pages** in the **Code and Automation** section.   
+ c.  Select the branch to add GitHub Pages to. For our purposes, the main branch is fine.   
+ d. Save your changes.  
 3. Wait for GitHub Pages to finish building.
 You have now added GitHub Pages to your repository. You have also learned about Etter's principle of version control. 
 ### Host Your Resume
@@ -75,7 +75,8 @@ I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for th
 * [Here](https://idratherbewriting.com/2016/07/26/modern-technical-writing-review/) is a really good review of _Modern Techical Writing_ that ephasizes Etter's key principles.
 ## FAQs
 **Why is Markdown better than a word processor?**   
-Markdown is better than a word processor because formatting is fast and easy. Markdown's syntax allows formatting to be done without clicking different buttons.   
+Markdown is better than a word processor because formatting is fast and easy. Markdown's syntax allows formatting to be done without clicking different buttons.  
+
 **Why can't I run Jekyll?**   
 Jekyll requires Ruby so make sure you have at least Ruby 2.50 installed. You can check your version of Ruby by opening the command prompt 
 (for Windows, search 'cmd' in the Start menu) and typing **ruby -v**). If your version of Ruby is too low, uninstall 
