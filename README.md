@@ -3,8 +3,8 @@
 * Provide a step-by-step guide on how to host and format a resume written in Markdown (edited in Notepad++), hosted by Jekyll and GitHub Pages.
 * Relate the general principles of technical writing to each step in the guide given. The general principles are described in Andrew Etter's book, [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=36CB5TXK2RFM8&keywords=modern+technical+writing+by+andrew+etter&qid=1667241539&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C121&sr=8-1).
 ## Prerequisites:
-* You will need a resume written in Markdown. 
-* You will need a GitHub account. 
+* You will need a resume written in Markdown. Refer to the **More Resources** section for a Markdown tutorial.
+* You will need a GitHub account. Refer to the **More Resources**  section for information on creating an account.
 ## How to Host and Format a Resume Using Markdown, Jekyll and GitHubPages
 ### Create a Site Using Jekyll
 This section will demonstrate how to create a new site using Jekyll and two of Andrew Etter's principles of good technical writing.  
@@ -71,7 +71,7 @@ Congratulations! You have hosted your resume using Markdown, Jekyll and GitHub P
 I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for their help editing this guide.
 ## More Resources
 * For a Markdown tutorial, go [here](https://www.markdowntutorial.com/).
-* For information on creating an account, go [here](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account). 
+* For information on creating a GitHub account, go [here](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account). 
 * [Here](https://idratherbewriting.com/2016/07/26/modern-technical-writing-review/) is a really good review of _Modern Techical Writing_ that ephasizes Etter's key principles.
 ## FAQs
 **Why is Markdown better than a word processor?**   
