@@ -65,7 +65,7 @@ He emphasizes the convenience of immediately fixing errors when hosting files on
 9. Go into the **_posts** folder 
 10. Delete the default post.
 11. Search **<gihub_username>.github.io** in your internet browser.   
-![Alt Text](kdotzlaw.github.io/for_readme_a2.gif)   
+![Alt Text](for_readme_a2.gif)   
 Congratulations! You have hosted your resume using Markdown, Jekyll and GitHub Pages!
 ## Authors and Acknowledgements
 I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for their help editing this guide.
