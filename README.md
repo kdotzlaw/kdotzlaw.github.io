@@ -38,16 +38,16 @@ clone a seperate repository are less likely to contribute to the project.
 Etter also explains in _Modern Technical Writing_ that storing code and documentation together allows them to stay in sync. 
 #### Instructions
 1. Create a new repository    
- a. Create the repository by clicking the **+** button.   
- b. Name your repository **<GitHub_Username>.github.io**.   
- c. Publish your repository.   
+	a. Create the repository by clicking the **+** button.   
+	b. Name your repository **<GitHub_Username>.github.io**.   
+	c. Publish your repository.   
 You have now created a repository for your website. You have also learned about the importance of version control, another of Andrew Etter's key principles.      
 2. Add GitHub Pages   
- a. Go to **settings**.   
- b.  Click **Pages** in the **Code and Automation** section.   
- c.  Select the branch to add GitHub Pages to. For our purposes, the main branch is fine.   
- d. Save your changes.  
-3. Wait for GitHub Pages to finish building.
+	a. Go to **settings**.   
+	b.  Click **Pages** in the **Code and Automation** section.   
+	c.  Select the branch to add GitHub Pages to. For our purposes, the main branch is fine.   
+	d. Save your changes.  
+3. Wait for GitHub Pages to finish building.   
 You have now added GitHub Pages to your repository. You have also learned about Etter's principle of version control. 
 ### Host Your Resume
 This section includes information on uploading your resume and hosting it using GitHub Pages. Additionally, it demonstrates Andrew Etter's principle of using a static site generator.
@@ -68,7 +68,7 @@ He emphasizes the convenience of immediately fixing errors when hosting files on
 ![Alt Text](for_readme_a2.gif)   
 Congratulations! You have hosted your resume using Markdown, Jekyll and GitHub Pages!
 ## Authors and Acknowledgements
-I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for their help editing this guide.
+I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for their help editing this guide. I would like to thank Jekyll for providing the [Minima](https://github.com/jekyll/minima) theme.
 ## More Resources
 * For a Markdown tutorial, go [here](https://www.markdowntutorial.com/).
 * For information on creating a GitHub account, go [here](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account). 
@@ -78,8 +78,8 @@ I would like to acknowledge Tristan Dyck, Asifur Rahman and Aneesh Makkar for th
 Markdown is better than a word processor because formatting is fast and easy. Markdown's syntax allows formatting to be done without clicking different buttons.  
 
 **Why can't I run Jekyll?**   
-Jekyll requires Ruby so make sure you have at least Ruby 2.50 installed. You can check your version of Ruby by opening the command prompt 
-(for Windows, search 'cmd' in the Start menu) and typing **ruby -v**). If your version of Ruby is too low, uninstall 
+Jekyll requires Ruby to run so make sure you have at least Ruby 2.50 installed. You can check your version of Ruby by opening the command prompt 
+(for Windows, search 'cmd' in the Start menu) and typing `ruby -v`. If your version of Ruby is too low, uninstall 
 it using the **Add or Remove Programs** functionality on your computer. Now you can install the newest version of 
 Ruby found [**here**](https://rubyinstaller.org/downloads/). 
 
